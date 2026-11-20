@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="560" viewBox="0 0 640 560" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Dika Official</title>
+  <desc id="desc">Full stack developer in Indonesia. A cyan circuit-board D monogram accompanies the name on a dark blue background. Terminal tools, Linux, and automation.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1A3045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <path fill="#081523" d="M0 0h640v560H0z"/>
+  <path fill="url(#grid)" opacity=".36" d="M342 0h298v244H342z"/>
+  <path d="M0 0h640" stroke="#6CD9EC" stroke-width="5"/>
+
+  <g stroke="#264457" stroke-width="2" stroke-linejoin="bevel">
+    <path d="M360 0v28l42 42h32M392 0v16l35 35h39M640 46h-34l-34 34h-26"/>
+    <path d="M640 156h-41l-28-28h-25M640 183h-52l-31-31h-11M391 244v-34l43-43"/>
+    <path d="M484 0v36M508 244v-41"/>
+  </g>
+  <g fill="#081523" stroke="#426579" stroke-width="2">
+    <circle cx="360" cy="28" r="4"/><circle cx="606" cy="46" r="4"/>
+    <circle cx="599" cy="156" r="4"/>
+  </g>
+
+  <path d="m37 46 11 10-11 10m21 0h14" stroke="#6CD9EC" stroke-width="3"/>
+  <text x="36" y="111" fill="#B1C4D3" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="24">dikaoffic-z</text>
+
+  <g transform="translate(427 49) scale(.52)">
+    <path d="M0 0h162l90 90v79l-69 69H0z" fill="#102536" stroke="#355468" stroke-width="2"/>
+    <path d="M24 24h126l78 78v55l-57 57H24V24Zm42 42v106h87l33-33v-20l-53-53H66Z" fill="#6CD9EC" fill-rule="evenodd"/>
+    <path d="M24 24h46M24 24v46M252 169v-34M252 169l-25 25" stroke="#EFF7FB" stroke-width="4"/>
+    <path d="M0 110h-35l-20 20h-41M0 140h-24l-20 20h-34" stroke="#6CD9EC" stroke-width="3"/>
+    <circle cx="-100" cy="130" r="5" fill="#6CD9EC"/>
+    <circle cx="-82" cy="160" r="5" fill="#6CD9EC"/>
+  </g>
+
+  <g fill="#EFF7FB" font-family="'DejaVu Sans', Arial, sans-serif" font-size="99" font-weight="700" letter-spacing="-4">
+    <text x="30" y="269">DIKA</text>
+    <text x="30" y="365">OFFICIAL</text>
+  </g>
+  <text x="36" y="418" fill="#B1C4D3" font-family="'DejaVu Sans', Arial, sans-serif" font-size="29">Full stack developer</text>
+
+  <path d="M36 451h568" stroke="#294356"/>
+  <g fill="#B1C4D3" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="22">
+    <text x="36" y="491">Terminal tools / Linux / Automation</text>
+    <text x="36" y="533">Indonesia</text>
+  </g>
+  <path d="M588 520h16v12h-16z" fill="#D5EB9D"/>
+</svg>
